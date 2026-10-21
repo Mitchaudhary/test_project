@@ -1,0 +1,6 @@
+{
+  "name": "LJ University Academic, Timetable & Attendance ERP",
+  "description": "Comprehensive academic operations, conflict-free weekly timetable (09:00 AM - 03:00 PM), dynamic QR attendance, and 40-lecture micro-topic lesson plan tracker for LJ University.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
